@@ -1,1 +1,20 @@
+body {
+    background: rgb(300, 300, 300);
+}
 
+.clase1 {
+    color: rgb(0, 255, 0);
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 200%;
+}
+
+.clase2 {
+    color: green;
+}
+
+.clase3 {
+    color: rgb(250, 0, 50);
+}
+
+/* Aquí finaliza el código CSS */
